@@ -1,0 +1,27 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+""
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="SweatCoin"
+ORG_URL="sweatcoin.fund"
+ORG_DESCRIPTION=""
+ORG_TWITTER=""
+ORG_LOGO=""
+ORG_OFFICIAL_EMAIL="support@sweatcoin.fund"
+
+
+[[CURRENCIES]]
+code=""
+issuer=""
+anchor_asset="false"
+name=""
+desc=""
+image=""
+fixed_number=100000000
+max_number=100000000
+is_unlimited=false
+# was issued using the open and inclusive Stellar blockchain network.
