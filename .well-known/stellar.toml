@@ -1,8 +1,5 @@
 VERSION="2.2.1"
 
-# Federation service provided by StellarID.io
-FEDERATION_SERVER="https://stellarid.io/federation/"
-
 ACCOUNTS=[
 "GAFU54DTA4QXPDPLEK4NKVSGME4W764TNR4XV35PEWNKCFN5C4ZORMOP",
 ]
@@ -11,7 +8,7 @@ ACCOUNTS=[
 ORG_NAME="Sweatcoin"
 ORG_URL="https://sweatcoin.fund/"
 ORG_DESCRIPTION="Sweatcoin has been released on Stellar Blockchain! Finally moving to a web3 model, the Sweatcoin and its' users can now take their earnings and use them across the Stellar Blockchain. Get ready for our journey!"
-ORG_LOGO="https://i.ibb.co/jv32sfd/sweat.png"
+ORG_LOGO="https://sweatcoin.fund/sweat.png"
 ORG_OFFICIAL_EMAIL="support@sweatcoin.fund"
 
 
@@ -23,7 +20,7 @@ issuer="GAFU54DTA4QXPDPLEK4NKVSGME4W764TNR4XV35PEWNKCFN5C4ZORMOP"
 anchor_asset_type="crypto"
 name="Sweat Coin"
 desc="Sweatcoin has been released on Stellar Blockchain! Finally moving to a web3 model, the Sweatcoin and its' users can now take their earnings and use them across the Stellar Blockchain. Get ready for our journey!"
-image="https://i.ibb.co/jv32sfd/sweat.png"
+image="https://sweatcoin.fund/sweat.png"
 fixed_number=100000000
 max_number=100000000
 is_unlimited=false
