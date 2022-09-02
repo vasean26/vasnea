@@ -275,3 +275,8 @@ button,
   font-family: "Font Awesome 5 Brands";
   content: "\f08c";
 }
+
+.telegram::before {
+  font-family: "Font Awesome 5 Brands";
+  content: "\f2c6";
+}
