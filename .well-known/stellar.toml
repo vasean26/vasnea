@@ -2,6 +2,7 @@ VERSION="2.2.1"
 
 ACCOUNTS=[
 "GAFU54DTA4QXPDPLEK4NKVSGME4W764TNR4XV35PEWNKCFN5C4ZORMOP",
+"GDRIW2VJZUVWVGUCDPDYDGUP5CUDDUPQZGIV6YUUQLGANGJ2KERSWEAT"
 ]
 
 [DOCUMENTATION]
@@ -25,3 +26,18 @@ fixed_number=100000000
 max_number=100000000
 is_unlimited=false
 #Sweat Coin was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="SWSB"
+status="live"
+display_decimals=2
+issuer="GDRIW2VJZUVWVGUCDPDYDGUP5CUDDUPQZGIV6YUUQLGANGJ2KERSWEAT"
+anchor_asset_type="crypto"
+name="Sweat Stellar Bronze"
+desc="Sweat Stellar Bronze token with a Dividends payments in XLM directly, weekly, secure, and starting with 200% APY or 0,55 XLM daily payments. 20% Cashback for TOP 50 Holders"
+image="http://sweatcoin.fund/sweatb.png"
+fixed_number=100000000
+max_number=100000000
+is_unlimited=false
+#Sweat Stellar Bronze was issued using the open and inclusive Stellar blockchain network.
