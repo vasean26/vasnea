@@ -38483,7 +38483,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 
-
+@media (max-width: 575px) {
+  .u-header .u-image-1 {
+    height: 63px;
+    margin-top: 9px;
+    margin-left: auto;
+    margin-bottom: 7px;
+  }
+}
  .u-footer {
   background-image: none;
 }
