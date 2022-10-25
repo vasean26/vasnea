@@ -2,7 +2,8 @@ VERSION="2.2.1"
 
 ACCOUNTS=[
 "GAFU54DTA4QXPDPLEK4NKVSGME4W764TNR4XV35PEWNKCFN5C4ZORMOP",
-"GDRIW2VJZUVWVGUCDPDYDGUP5CUDDUPQZGIV6YUUQLGANGJ2KERSWEAT"
+"GDRIW2VJZUVWVGUCDPDYDGUP5CUDDUPQZGIV6YUUQLGANGJ2KERSWEAT",
+"GBZHOUPPMQQBJPM6R7GPJPYKMQJYM57SN3XQEA3FT6ABHUQFANRCIT3C"
 ]
 
 [DOCUMENTATION]
@@ -41,3 +42,19 @@ fixed_number=100000000
 max_number=100000000
 is_unlimited=false
 #Sweat Stellar Bronze was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="SWSA"
+status="live"
+display_decimals=2
+issuer="GBZHOUPPMQQBJPM6R7GPJPYKMQJYM57SN3XQEA3FT6ABHUQFANRCIT3C"
+anchor_asset_type="crypto"
+name="Sweat Token Advanced"
+desc="SWSA is a brand-new Token from Sweat Coin Project paying Dividends every two weeks in SWS Token from the amount of XLM invested. More details in our Telegram - @stellartradeus"
+image="https://sweatcoin.fund/sweata.png"
+fixed_number=200
+max_number=200
+is_unlimited=false
+#Sweat Token Advanced was issued using the open and inclusive Stellar blockchain network.
+
