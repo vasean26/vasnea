@@ -1,26 +1,26 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GAFU54DTA4QXPDPLEK4NKVSGME4W764TNR4XV35PEWNKCFN5C4ZORMOP",
+"GDOW7IFVKXJFT4VHYOLXSTLIGJTYPGOON25RI3ENIWOI5ACWQK46SU6A",
 ]
 
 [DOCUMENTATION]
 ORG_NAME="reALPHA"
 ORG_URL="https://realpha.digital/"
 ORG_DESCRIPTION="With reAlpha you’ll be able to buy equity in specific properties kind of like you would buy shares of companies on your favorite investing app."
-ORG_LOGO="https://sweatcoin.fund/sweat.png"
-ORG_OFFICIAL_EMAIL="support@sweatcoin.fund"
+ORG_LOGO="https://realpha.digital/logo.png"
+ORG_OFFICIAL_EMAIL="realphastellar@gmail.com"
 
 
 [[CURRENCIES]]
 code="REA"
 status="live"
 display_decimals=2
-issuer="GAFU54DTA4QXPDPLEK4NKVSGME4W764TNR4XV35PEWNKCFN5C4ZORMOP"
+issuer="GDOW7IFVKXJFT4VHYOLXSTLIGJTYPGOON25RI3ENIWOI5ACWQK46SU6A"
 anchor_asset_type="crypto"
 name="reALPHA Token"
 desc="Our technology is designed to help break down the barriers to entry kept in place throughout history, keeping you out of the market and giving the “big guys” access to the best investment properties."
-image="https://sweatcoin.fund/sweat.png"
+image="https://realpha.digital/logo.png"
 fixed_number=100000000
 max_number=100000000
 is_unlimited=false
