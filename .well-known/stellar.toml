@@ -2,59 +2,26 @@ VERSION="2.2.1"
 
 ACCOUNTS=[
 "GAFU54DTA4QXPDPLEK4NKVSGME4W764TNR4XV35PEWNKCFN5C4ZORMOP",
-"GDRIW2VJZUVWVGUCDPDYDGUP5CUDDUPQZGIV6YUUQLGANGJ2KERSWEAT",
-"GBZHOUPPMQQBJPM6R7GPJPYKMQJYM57SN3XQEA3FT6ABHUQFANRCIT3C"
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Sweatcoin"
-ORG_URL="https://sweatcoin.fund/"
-ORG_DESCRIPTION="Sweatcoin has been released on Stellar Blockchain! Finally moving to a web3 model, the Sweatcoin and its' users can now take their earnings and use them across the Stellar Blockchain. Get ready for our journey!"
+ORG_NAME="reALPHA"
+ORG_URL="https://realpha.digital/"
+ORG_DESCRIPTION="With reAlpha you’ll be able to buy equity in specific properties kind of like you would buy shares of companies on your favorite investing app."
 ORG_LOGO="https://sweatcoin.fund/sweat.png"
 ORG_OFFICIAL_EMAIL="support@sweatcoin.fund"
 
 
 [[CURRENCIES]]
-code="SWS"
+code="REA"
 status="live"
 display_decimals=2
 issuer="GAFU54DTA4QXPDPLEK4NKVSGME4W764TNR4XV35PEWNKCFN5C4ZORMOP"
 anchor_asset_type="crypto"
-name="Sweat Coin"
-desc="Sweatcoin has been released on Stellar Blockchain! Finally moving to a web3 model, the Sweatcoin and its' users can now take their earnings and use them across the Stellar Blockchain. Get ready for our journey!"
+name="reALPHA Token"
+desc="Our technology is designed to help break down the barriers to entry kept in place throughout history, keeping you out of the market and giving the “big guys” access to the best investment properties."
 image="https://sweatcoin.fund/sweat.png"
 fixed_number=100000000
 max_number=100000000
 is_unlimited=false
-#Sweat Coin was issued using the open and inclusive Stellar blockchain network.
-
-
-[[CURRENCIES]]
-code="SWSB"
-status="live"
-display_decimals=2
-issuer="GDRIW2VJZUVWVGUCDPDYDGUP5CUDDUPQZGIV6YUUQLGANGJ2KERSWEAT"
-anchor_asset_type="crypto"
-name="Sweat Stellar Bronze"
-desc="Sweat Stellar Bronze token with a Dividends payments in XLM directly, weekly, secure, and starting with 200% APY or 0,55 XLM daily payments. 20% Cashback for TOP 50 Holders"
-image="http://sweatcoin.fund/sweatb.png"
-fixed_number=100000000
-max_number=100000000
-is_unlimited=false
-#Sweat Stellar Bronze was issued using the open and inclusive Stellar blockchain network.
-
-
-[[CURRENCIES]]
-code="SWSA"
-status="live"
-display_decimals=2
-issuer="GBZHOUPPMQQBJPM6R7GPJPYKMQJYM57SN3XQEA3FT6ABHUQFANRCIT3C"
-anchor_asset_type="crypto"
-name="Sweat Token Advanced"
-desc="SWSA is a brand-new Token from Sweat Coin Project paying Dividends every two weeks in SWS Token from the amount of XLM invested. More details in our Telegram - @stellartradeus"
-image="https://sweatcoin.fund/sweata.png"
-fixed_number=200
-max_number=200
-is_unlimited=false
-#Sweat Token Advanced was issued using the open and inclusive Stellar blockchain network.
-
+#reALPHA Token was issued using the open and inclusive Stellar blockchain network.
