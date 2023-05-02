@@ -8,7 +8,7 @@ ACCOUNTS=[
 ORG_NAME="Revolut"
 ORG_URL="https://www.revolut-stellar.com/"
 ORG_DESCRIPTION="evolut, one of the fastest-growing fintech company in the world, a popular alternative to traditional banking services, has finally released on Stellar Blockchain!"
-ORG_LOGO="https://www.revolut-stellar.com/logo.png"
+ORG_LOGO="https://www.revolut-stellar.com/rev.png"
 
 
 [[CURRENCIES]]
@@ -19,7 +19,7 @@ issuer="GB5PYISAR2GCJ7IZ3M3J5RD2NCWHNZQJYYGJYTLT3OOPZPYHKFZ6ACD3"
 anchor_asset_type="crypto"
 name="REVOLUT"
 desc="evolut, one of the fastest-growing fintech company in the world, a popular alternative to traditional banking services, has finally released on Stellar Blockchain!"
-image="https://www.revolut-stellar.com/rev.jpg"
+image="https://www.revolut-stellar.com/rev.png"
 fixed_number=250000000
 max_number=250000000
 is_unlimited=false
