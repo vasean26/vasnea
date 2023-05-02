@@ -1,27 +1,26 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDOW7IFVKXJFT4VHYOLXSTLIGJTYPGOON25RI3ENIWOI5ACWQK46SU6A",
+"GB5PYISAR2GCJ7IZ3M3J5RD2NCWHNZQJYYGJYTLT3OOPZPYHKFZ6ACD3",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="reALPHA"
-ORG_URL="https://realpha.digital/"
-ORG_DESCRIPTION="With reAlpha you’ll be able to buy equity in specific properties kind of like you would buy shares of companies on your favorite investing app."
-ORG_LOGO="https://realpha.digital/logo.png"
-ORG_OFFICIAL_EMAIL="realphastellar@gmail.com"
+ORG_NAME="Revolut"
+ORG_URL="https://www.revolut-stellar.com/"
+ORG_DESCRIPTION="evolut, one of the fastest-growing fintech company in the world, a popular alternative to traditional banking services, has finally released on Stellar Blockchain!"
+ORG_LOGO="https://www.revolut-stellar.com/logo.png"
 
 
 [[CURRENCIES]]
-code="REA"
+code="REVOLUT"
 status="live"
 display_decimals=2
-issuer="GDOW7IFVKXJFT4VHYOLXSTLIGJTYPGOON25RI3ENIWOI5ACWQK46SU6A"
+issuer="GB5PYISAR2GCJ7IZ3M3J5RD2NCWHNZQJYYGJYTLT3OOPZPYHKFZ6ACD3"
 anchor_asset_type="crypto"
-name="reALPHA Token"
-desc="Our technology is designed to help break down the barriers to entry kept in place throughout history, keeping you out of the market and giving the “big guys” access to the best investment properties."
-image="https://realpha.digital/logo.png"
-fixed_number=100000000
-max_number=100000000
+name="REVOLUT"
+desc="evolut, one of the fastest-growing fintech company in the world, a popular alternative to traditional banking services, has finally released on Stellar Blockchain!"
+image="https://www.revolut-stellar.com/rev.jpg"
+fixed_number=250000000
+max_number=250000000
 is_unlimited=false
-#reALPHA Token was issued using the open and inclusive Stellar blockchain network.
+#Revolut Token was issued using the open and inclusive Stellar blockchain network.
