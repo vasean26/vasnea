@@ -1,26 +1,26 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GB5PYISAR2GCJ7IZ3M3J5RD2NCWHNZQJYYGJYTLT3OOPZPYHKFZ6ACD3",
+"GB3BCG256DVWGBKEYMB2PEMUCHQYLAG7PBULLEFP73FSQTLY4VCQLQN2",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Revolut"
-ORG_URL="https://www.revolut-stellar.com/"
-ORG_DESCRIPTION="evolut, one of the fastest-growing fintech company in the world, a popular alternative to traditional banking services, has finally released on Stellar Blockchain!"
-ORG_LOGO="https://www.revolut-stellar.com/rev.png"
+ORG_NAME="Marriott"
+ORG_URL="https://www.marriott-stellar.com/"
+ORG_DESCRIPTION="Book Directly & Save at any of our 8000+ Marriott Bonvoy Hotels. Choose from Luxury Hotels, Resorts, Extended Stay Hotels, Pet-Friendly Hotels & More with Stellar Blockchain."
+ORG_LOGO="https://www.marriott-stellar.com/mar.png"
 
 
 [[CURRENCIES]]
-code="REVOLUT"
+code="Marriott"
 status="live"
 display_decimals=2
-issuer="GB5PYISAR2GCJ7IZ3M3J5RD2NCWHNZQJYYGJYTLT3OOPZPYHKFZ6ACD3"
+issuer="GB3BCG256DVWGBKEYMB2PEMUCHQYLAG7PBULLEFP73FSQTLY4VCQLQN2"
 anchor_asset_type="crypto"
-name="REVOLUT"
-desc="evolut, one of the fastest-growing fintech company in the world, a popular alternative to traditional banking services, has finally released on Stellar Blockchain!"
-image="https://www.revolut-stellar.com/rev.png"
-fixed_number=250000000
-max_number=250000000
+name="Marriott"
+desc="Book Directly & Save at any of our 8000+ Marriott Bonvoy Hotels. Choose from Luxury Hotels, Resorts, Extended Stay Hotels, Pet-Friendly Hotels & More with Stellar Blockchain."
+image="https://www.marriott-stellar.com/mar.png"
+fixed_number=2000000
+max_number=2000000
 is_unlimited=false
-#Revolut Token was issued using the open and inclusive Stellar blockchain network.
+#Marriott Asset was issued using the open and inclusive Stellar blockchain network.
