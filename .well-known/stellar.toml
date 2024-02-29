@@ -8,7 +8,7 @@ ACCOUNTS=[
 ORG_NAME="Marriott"
 ORG_URL="https://www.marriott-stellar.com/"
 ORG_DESCRIPTION="Book Directly & Save at any of our 8000+ Marriott Bonvoy Hotels. Choose from Luxury Hotels, Resorts, Extended Stay Hotels, Pet-Friendly Hotels & More with Stellar Blockchain."
-ORG_LOGO="https://www.marriott-stellar.com/mar.png"
+ORG_LOGO="https://www.marriott-stellar.com/mar.jpg"
 
 
 [[CURRENCIES]]
@@ -19,7 +19,7 @@ issuer="GB3BCG256DVWGBKEYMB2PEMUCHQYLAG7PBULLEFP73FSQTLY4VCQLQN2"
 anchor_asset_type="crypto"
 name="Marriott"
 desc="Book Directly & Save at any of our 8000+ Marriott Bonvoy Hotels. Choose from Luxury Hotels, Resorts, Extended Stay Hotels, Pet-Friendly Hotels & More with Stellar Blockchain."
-image="https://www.marriott-stellar.com/mar.png"
+image="https://www.marriott-stellar.com/mar.jpg"
 fixed_number=2000000
 max_number=2000000
 is_unlimited=false
