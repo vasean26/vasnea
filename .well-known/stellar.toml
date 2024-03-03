@@ -2,6 +2,7 @@ VERSION="2.2.1"
 
 ACCOUNTS=[
 "GB3BCG256DVWGBKEYMB2PEMUCHQYLAG7PBULLEFP73FSQTLY4VCQLQN2",
+"GBI2W5CHBWAL2ACQVIE64RKW3WUUIHSIMACSRQ77RBDEMSLT6IBDKI5A",
 ]
 
 [DOCUMENTATION]
@@ -24,3 +25,17 @@ fixed_number=2000000
 max_number=2000000
 is_unlimited=false
 #Marriott Asset was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="MSE"
+status="live"
+display_decimals=2
+issuer="GBI2W5CHBWAL2ACQVIE64RKW3WUUIHSIMACSRQ77RBDEMSLT6IBDKI5A"
+anchor_asset_type="crypto"
+name="Marriott Silver Elite"
+desc="Marriott Silver Elite Membership Token, Dividends up to 22% Monthly, Make the most of your stay get 10% More Points, Priority Late Checkout, Member Rates & Complimentary WiFi"
+image="https://www.marriott-stellar.com/mse.png"
+fixed_number=200
+max_number=200
+is_unlimited=false
+#MSE Asset was issued using the open and inclusive Stellar blockchain network.
