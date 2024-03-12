@@ -1,41 +1,25 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GB3BCG256DVWGBKEYMB2PEMUCHQYLAG7PBULLEFP73FSQTLY4VCQLQN2",
-"GBI2W5CHBWAL2ACQVIE64RKW3WUUIHSIMACSRQ77RBDEMSLT6IBDKI5A",
+"GCTLN2OYNA7RD2YX2HUTDQBI7Z6GNKXV7SFNCUNXEFPWGRWLYB3EUI2Q",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Marriott"
-ORG_URL="https://www.marriott-stellar.com/"
-ORG_DESCRIPTION="Book Directly & Save at any of our 8000+ Marriott Bonvoy Hotels. Choose from Luxury Hotels, Resorts, Extended Stay Hotels, Pet-Friendly Hotels & More with Stellar Blockchain."
-ORG_LOGO="https://www.marriott-stellar.com/mar.jpg"
+ORG_NAME="N26"
+ORG_URL="https://www.n26stellar.com/"
+ORG_DESCRIPTION="Founded in 2013, N26 is Europe's first 100% mobile and fully-licensed bank. Today, we're on a mission to build the bank the world loves to use."
+ORG_LOGO="https://www.n26stellar.com/n26.jpg"
 
 
 [[CURRENCIES]]
-code="Marriott"
+code="N26"
 status="live"
-display_decimals=2
-issuer="GB3BCG256DVWGBKEYMB2PEMUCHQYLAG7PBULLEFP73FSQTLY4VCQLQN2"
+display_decimals=7
+issuer="GCTLN2OYNA7RD2YX2HUTDQBI7Z6GNKXV7SFNCUNXEFPWGRWLYB3EUI2Q"
 anchor_asset_type="crypto"
-name="Marriott"
-desc="Book Directly & Save at any of our 8000+ Marriott Bonvoy Hotels. Choose from Luxury Hotels, Resorts, Extended Stay Hotels, Pet-Friendly Hotels & More with Stellar Blockchain."
-image="https://www.marriott-stellar.com/mar.jpg"
-fixed_number=2000000
-max_number=2000000
+name="N26"
+desc="Founded in 2013, N26 is Europe's first 100% mobile and fully-licensed bank. Today, we're on a mission to build the bank the world loves to use."
+image="https://www.n26stellar.com/n26.jpg"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Marriott Asset was issued using the open and inclusive Stellar blockchain network.
-
-[[CURRENCIES]]
-code="MSE"
-status="live"
-display_decimals=2
-issuer="GBI2W5CHBWAL2ACQVIE64RKW3WUUIHSIMACSRQ77RBDEMSLT6IBDKI5A"
-anchor_asset_type="crypto"
-name="Marriott Silver Elite"
-desc="Marriott Silver Elite Membership Token, Dividends up to 22% Monthly, Make the most of your stay get 10% More Points, Priority Late Checkout, Member Rates & Complimentary WiFi"
-image="https://www.marriott-stellar.com/mse.png"
-fixed_number=200
-max_number=200
-is_unlimited=false
-#MSE Asset was issued using the open and inclusive Stellar blockchain network.
